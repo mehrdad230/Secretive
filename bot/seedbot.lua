@@ -231,7 +231,7 @@ function create_config( )
     moderation = {data = 'data/moderation.json'},
     about_text = [[Secretive BOT
     
-sudo @mehrdad230
+sudo @mehrdad_230
 ]],
     help_text_realm = [[
 Realm Commands:
